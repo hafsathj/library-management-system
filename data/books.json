@@ -1,0 +1,84 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Fiction",
+            "publishedYear": 1960,
+            "price": 10.99
+        },
+        {
+            "id": 2,
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "publishedYear": 1949,
+            "price": 8.99
+        },
+        {
+            "id": 3,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "publishedYear": 1813,
+            "price": 12.99
+        },
+        {
+            "id": 4,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "publishedYear": 1925,
+            "price": 9.99
+        },
+        {
+            "id": 5,
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "genre": "Adventure",
+            "publishedYear": 1851,
+            "price": 11.99
+        },
+        {
+            "id": 6,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Fiction",
+            "publishedYear": 1951,
+            "price": 10.49
+        },
+        {
+            "id": 7,
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Dystopian",
+            "publishedYear": 1932,
+            "price": 9.49
+        },
+        {
+            "id": 8,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "publishedYear": 1937,
+            "price": 14.99
+        },
+        {
+            "id": 9,
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "genre": "Historical Fiction",
+            "publishedYear": 1869,
+            "price": 13.99
+        },
+        {
+            "id": 10,
+            "title": "The Odyssey",
+            "author": "Homer",
+            "genre": "Epic Poetry",
+            "publishedYear": -800,
+            "price": 15.99
+        }
+    ]
+}

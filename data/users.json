@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "issuedBooks": 1,
+            "issuedDates": "2023-01-15",
+            "returnDates": "2023-02-15",
+            "subscriptionType": "Premium",
+            "subscriptionDate": "2023-01-01"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "issuedBooks": 2,
+            "issuedDates": "2023-01-20, 2023-02-01",
+            "returnDates": "2023-02-20, 2023-03-01",
+            "subscriptionType": "Basic",
+            "subscriptionDate": "2023-01-01"
+        },
+        {
+            "id": 3,
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "issuedBooks": 1,
+            "issuedDates": "2023-01-25",
+            "returnDates": "2023-02-25",
+            "subscriptionType": "Basic",
+            "subscriptionDate": "2023-01-01"
+        },
+        {
+            "id": 4,
+            "name": "Bob Brown",
+            "email": "bob.brown@example.com",
+            "issuedBooks": 1,
+            "issuedDates": "2023-01-30",
+            "returnDates": "2023-02-28",
+            "subscriptionType": "Basic",
+            "subscriptionDate": "2023-01-01"
+        }
+    ]
+}   
